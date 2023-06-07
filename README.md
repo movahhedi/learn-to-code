@@ -43,7 +43,7 @@
 - Why GitHub? Sanctions?
 - private vs public repos
 
-
+## Other
 - Encode vs encrypt vs Hash
 - RSA
 - AES (CBC vs GCM vs..)
